@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# AI Dev Day Brisbane
+# AI Dev Day
 
 Welcome. This is a **learn-at-your-own-level guide to AI** — built for a room
 full of people from different companies, with very different starting points.
