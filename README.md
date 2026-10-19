@@ -1,4 +1,4 @@
-# AI Dev Day Brisbane
+# AI Dev Day
 
 An **L100 → L400 AI literacy encyclopedia**, glossary, prompt library and
 hands-on Databricks labs — built for mixed-audience client dev days.

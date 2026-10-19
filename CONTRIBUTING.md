@@ -123,6 +123,6 @@ The repo is private during authoring. To publish once it's public:
 2. **Settings → Secrets and variables → Actions → Variables →** add
    `PUBLISH_PAGES` = `true`.
 3. Push/merge to `main` — the `deploy` job publishes to
-   `https://naveenb83.github.io/ai-dev-day-brisbane/`.
+   `https://naveenb83.github.io/ai-dev-day/`.
 
 Until `PUBLISH_PAGES` is set, the deploy job is skipped (no failing runs).

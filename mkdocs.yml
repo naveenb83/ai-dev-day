@@ -1,13 +1,12 @@
-site_name: AI Dev Day Brisbane
+site_name: AI Dev Day
 site_description: >-
   An L100 to L400 AI literacy encyclopedia, glossary, prompt library and
   hands-on Databricks labs for mixed-audience client dev days.
 site_author: naveenb83
-# Update this to the public URL once the repo is made public and Pages is enabled.
-site_url: https://naveenb83.github.io/ai-dev-day-brisbane/
+site_url: https://naveenb83.github.io/ai-dev-day/
 
-repo_name: naveenb83/ai-dev-day-brisbane
-repo_url: https://github.com/naveenb83/ai-dev-day-brisbane
+repo_name: naveenb83/ai-dev-day
+repo_url: https://github.com/naveenb83/ai-dev-day
 edit_uri: edit/main/docs/
 
 theme:
@@ -91,7 +90,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/naveenb83/ai-dev-day-brisbane
+      link: https://github.com/naveenb83/ai-dev-day
 
 # Navigation is extended one section per content PR.
 nav:
